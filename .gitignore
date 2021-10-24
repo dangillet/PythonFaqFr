@@ -1,5 +1,6 @@
 *.pyc
 Pipfile.lock
+venv
 doc/_build
 
 *.sublime-*
